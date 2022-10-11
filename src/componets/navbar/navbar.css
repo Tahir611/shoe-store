@@ -1,0 +1,29 @@
+.navbar{
+    background-color: rgb(12, 21, 64);
+    padding: 15px 0;
+    display:  flex;
+    justify-content: space-around;
+}
+
+.link{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+h5{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 14px;
+}
+
+.home, .about{
+    padding-right: 30px;
+}
+
+.navbar div{
+    display: flex;
+    justify-content: center;
+}
